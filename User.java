@@ -6,12 +6,4 @@ public final class User {
     private float weight;
 
     public User () {}
-
-    public getFirstName(){
-        return firstName;
-    }
-
-    public getLastName(){
-	return lastName;
-    }
 }
