@@ -4,7 +4,6 @@ public final class User {
     private Date birthDate;
     private String sexe;
     private float weight;
-    private float heights;
 
     public User () {}
 }
