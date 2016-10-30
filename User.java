@@ -4,6 +4,10 @@ public final class User {
     private Date birthDate;
     private String sexe;
     private float weight;
+<<<<<<< Updated upstream
+=======
+    private float height;
+>>>>>>> Stashed changes
 
     public User () {}
 }
